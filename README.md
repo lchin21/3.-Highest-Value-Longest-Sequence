@@ -15,7 +15,7 @@ Ex: py src/main.py < examples/example.in
 
 **Assumptions:**
 
-The passed in dictionary values, contains numerical values for all letters of the alphabet, or they default to value 0.
+The input contains numerical values for all letters of the alphabet, or they default to value 0.
 
 Strings A and B only consist of lowercase alphabetical characters.
 
